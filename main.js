@@ -5,7 +5,7 @@ catch(e){}
 var feed=new Instafeed({
     get:'user',
     userId:577210186,
-    accessToken:'577210186.8046de1.b57e8fd1fcbf4ee3a8d95bde49b5f151',
+    accessToken:'577210186.467ede5.411a6b6beee64912ae2d5875c566ad15',
     target:'instagram',
     resolution:'standard_resolution',
     after:function(){
