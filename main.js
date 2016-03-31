@@ -1,9 +1,10 @@
 try{
 Typekit.load();
 }
-
-catch(e){}var feed=new Instafeed({
-    get:'user',userId:577210186,
+catch(e){}
+var feed=new Instafeed({
+    get:'user',
+    userId:577210186,
     accessToken:'577210186.8046de1.b57e8fd1fcbf4ee3a8d95bde49b5f151',
     target:'instagram',
     resolution:'standard_resolution',
